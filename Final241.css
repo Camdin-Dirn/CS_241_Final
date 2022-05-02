@@ -1,0 +1,37 @@
+.center {
+    margin: auto;
+    width: 50%;
+    height: 2%;
+    padding: 10px;
+    text-align: center;
+}
+
+.bigtextareas{
+    font-size: 170%;
+}
+h2{
+    text-indent: 10%;
+    text-align: left;
+}
+body{
+    background-color: maroon;
+    color: silver;
+}
+.underline{
+    text-decoration-line: underline;
+    color:  blue;
+    font-size: 110%;
+}
+.small{
+    height: 100px;
+    width: auto;
+}
+.enlarge-onhover {
+    width: auto;
+    height: auto;
+}
+
+.enlarge-onhover:hover {
+    width: 90%;
+    height: 90%;
+}
